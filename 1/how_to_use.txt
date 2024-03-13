@@ -1,4 +1,4 @@
-How to compile a program to use with gdb
+How to compile a program to use with gdb.
 ========================================
 
 $ gcc -g -o binaryfile source_code.c
